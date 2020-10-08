@@ -9,7 +9,7 @@ int main(void)
   n4=(i/1000)%10;
   check =(n1*n1*n1*n1)+(n2*n2*n2*n2)+(n3*n3*n3*n3)+(n4*n4*n4*n4);
   if(check == i)
-    printf(" Number exponents 4 equal itself:%d \n",i);
+    printf(" Number exponents 4 equal itself : %d \n",i);
     }
   return 0;
 }
